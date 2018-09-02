@@ -1,7 +1,11 @@
-![myphoto](myphoto.jpeg)
+# let's try out github
+>Markdown 是一种方便记忆、书写的纯文本标记语言。  
+>>用户可以使用这些标记符号以最小的输入代价生成极富表现力的文档：譬如您正在阅读的这份文档。它使用简单的符号标记不同的标题，分割不同的段落，**粗体** 或者 *斜体*。
+
+![myphoto](myphoto.jpeg =200x300)
 [google](www.google.com)
 
-[inner link:let's try out github](#let's-try-out-github)
+[inner link:my name is cecilia](#let's-try-out-github)
 
 [inner link:link_test.md](/link_test.md#this-is-an-inner-link-page)
 =======
@@ -15,9 +19,20 @@
 ###### 六级标题
 
 
-# let's try out github
->Markdown 是一种方便记忆、书写的纯文本标记语言。  
->>用户可以使用这些标记符号以最小的输入代价生成极富表现力的文档：譬如您正在阅读的这份文档。它使用简单的符号标记不同的标题，分割不同的段落，**粗体** 或者 *斜体*。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## My name is cecilia
 ### My major is bfj and I like it.
