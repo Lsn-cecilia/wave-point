@@ -3,8 +3,8 @@
 >>用户可以使用这些标记符号以最小的输入代价生成极富表现力的文档：譬如您正在阅读的这份文档。它使用简单的符号标记不同的标题，分割不同的段落，**粗体** 或者 *斜体*。
 ## My name is cecilia
 ### My major is bfj and I like it.
-![myphoto](myphoto1.jpeg)
-[google](https:\\www.google.com)
+![myphoto](myphoto1.jpg)
+[google](https://www.google.com)
 
 
 =======
